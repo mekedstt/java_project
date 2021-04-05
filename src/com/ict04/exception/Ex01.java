@@ -5,7 +5,7 @@ public class Ex01 {
 	public static void main(String[] args) {
 		/*
 			예외처리.
-	
+			추가내용
 	
 		*/
 	
