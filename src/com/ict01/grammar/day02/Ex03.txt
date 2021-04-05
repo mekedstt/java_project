@@ -1,0 +1,18 @@
+class Ex02
+{
+	public static void main(String[] args) {
+		
+	byte s1 = -127;
+	System.out.println(s1);	
+
+	//s1 = -128;
+	//System.out.println(s1);	
+	//오류
+
+	//short s2 = 32760 + 100; 퍼킹 오류
+	System.out.println(s2);
+
+
+
+	}
+}
