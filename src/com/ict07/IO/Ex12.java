@@ -1,7 +1,7 @@
 package com.ict07.IO;
 
 import java.io.*;
-
+//이건가 11번인가 시험 문제라했는데 기억이 안남
 public class Ex12 {
 	// c:\\study\\util\\java_1.png 파일을 
 	// c:\\study\\util\\res안에 이동하는 코딩
