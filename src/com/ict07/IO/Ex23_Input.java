@@ -2,6 +2,7 @@ package com.ict07.IO;
 
 import java.io.*;
 
+
 //객체의 역직렬화 : ObjectInputStream : readObject()
 public class Ex23_Input {
 	public static void main(String[] args) {

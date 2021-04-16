@@ -1,5 +1,6 @@
 package com.ict07.IO;
 
+
 import java.io.Serializable;
 
 public class Ex25_VO implements Serializable{

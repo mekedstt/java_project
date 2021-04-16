@@ -17,6 +17,7 @@ public class Ex15 {
 		try {
 			fw = new FileWriter(file);
 			
+			
 			//한글자 쓰기
 			fw.write(97);
 			fw.write(65);

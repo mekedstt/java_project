@@ -2,6 +2,7 @@ package com.ict07.IO;
 
 import java.io.*;
 
+
 public class Ex17 {
 	
 	//FileInputStream : read() : int(아스키) -> char형 변환, 대소문자, 숫자만 가능

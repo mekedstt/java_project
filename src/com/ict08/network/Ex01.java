@@ -11,6 +11,7 @@ public class Ex01 {
 			**localhost : 현재 내가 사용하고 있는 컴퓨터를 말함
 		*/
 		
+		
 		InetAddress addr;
 		try {
 			addr = InetAddress.getByName("www.naver.com");

@@ -1,11 +1,13 @@
-package com.ict07.IO;
+package Test;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.util.Scanner;
 
-import java.io.*;
-import java.util.*;
-
-public class Ex19 {
-
+public class CopyTest {
 	public static void main(String[] args) {
 		//복사 장소와 파일명을 받고 붙이기 장소와 파일명을 받아서 붙이기 하자.
 		Scanner sc = new Scanner(System.in);
@@ -62,23 +64,6 @@ public class Ex19 {
 				
 			}
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }

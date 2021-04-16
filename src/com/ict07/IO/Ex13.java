@@ -15,6 +15,7 @@ public class Ex13 {
 		File file = new File(pathname);
 		
 		
+		
 		FileOutputStream fos = null;
 		BufferedOutputStream bos = null;
 		DataOutputStream dos = null;

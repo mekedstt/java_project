@@ -9,6 +9,7 @@ public class Ex18 {
 		String pathname = "C:"+File.separator+"study"+File.separator
 				+"util"+File.separator+"ict06.txt";
 		
+		
 		File file = new File(pathname);
 		
 		FileReader fr = null;

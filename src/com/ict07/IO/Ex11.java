@@ -19,6 +19,7 @@ public class Ex11 {
 		File wirte_file = new File(pathname2);
 		
 		
+		
 		//먼저 읽어서 쓰기
 		//inputStream
 		FileInputStream fis = null;

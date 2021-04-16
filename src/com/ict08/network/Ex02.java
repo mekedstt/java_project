@@ -7,8 +7,7 @@ public class Ex02 {
 	public static void main(String[] args) {
 		/*URL 클래스 : URL(Uniform Resource Locator) : 접근 가능한 자원의 주소를 말한다.
 		  											final 클래스이기 때문에 상속 안됨
-		 */
-		
+		 */		
 		InputStream is = null;
 		InputStreamReader isr = null;
 		BufferedReader br = null;

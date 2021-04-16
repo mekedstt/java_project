@@ -22,6 +22,7 @@ public class Ex10 {
 			bos = new BufferedInputStream(fos);
 			
 			
+			
 			byte[] b = new byte[(int) file.length()];
 			fos.read(b);
 			String str = new String(b);

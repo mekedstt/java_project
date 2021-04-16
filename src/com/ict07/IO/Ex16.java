@@ -17,6 +17,7 @@ public class Ex16 {
 				//한글자 쓰기
 				bw.write(97);
 				bw.write(65);
+				
 							
 				bw.write('J');
 				bw.write('A');

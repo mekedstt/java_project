@@ -7,6 +7,7 @@ import java.io.Serializable;
 //제외된 변수의 데이터는 기본값은 갖는다.(int = 0, double 0.0, boolean = false)
 public class Ex23_VO implements Serializable {
 
+	
 		transient private String name;
 		private int age;
 		transient private double weight;

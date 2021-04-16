@@ -1,5 +1,6 @@
 package com.ict07.IO;
 
+
 import java.io.*;
 
 public class Ex27_VO implements Externalizable {

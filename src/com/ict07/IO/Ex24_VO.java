@@ -1,5 +1,6 @@
 package com.ict07.IO;
 
+
 import java.io.Serializable;
 //객체직렬화나 역직렬화를 하기 위해 Serializable이나 Externalizable을 상속받아야 함
 //Serializable 상속 받으면 해당 클래스를 객체로 만들 때 가지고 있는 모든 멤버들이 직렬화 대상

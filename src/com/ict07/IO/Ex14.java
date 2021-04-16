@@ -13,6 +13,7 @@ public class Ex14 {
 
 		File file = new File(pathname);
 		
+		
 		FileOutputStream fos = null;
 		BufferedOutputStream bos = null;
 		PrintStream ps;

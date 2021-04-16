@@ -9,6 +9,7 @@ public class Ex04 {
 		String pathname = "C:"+File.separator+"study"+File.separator
 				+"util"+File.separator+"µµ¼­°ü.txt";
 		
+		
 		File file = new File(pathname);
 		
 		FileWriter fw = null;

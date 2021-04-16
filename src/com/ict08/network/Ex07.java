@@ -11,7 +11,6 @@ import org.json.simple.parser.JSONParser;
 public class Ex07 {
 	public static void main(String[] args) {
 		BufferedReader br = null;
-		
 		try {
 			URL url = new URL("http://openapi.seoul.go.kr:8088/sample/json/SeoulLibraryTime/1/5/");
 			URLConnection conn = url.openConnection();
