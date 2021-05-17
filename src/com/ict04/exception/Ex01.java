@@ -9,7 +9,19 @@ public class Ex01 {
 			추추추가내용
 			추추추가내용
 		*/
-	
+		try {
+				int[] var = {10,20,30};
+			for(int i = 0;i<=var.length;i++) {
+				System.out.println(1);
+				System.out.println(2);
+				System.out.println("var[" + i + "] = " + var[i]);
+				System.out.println(3);
+				System.out.println(4);
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		System.out.println("수고");
 	}
 
 }
