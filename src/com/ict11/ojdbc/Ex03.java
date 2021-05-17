@@ -78,5 +78,9 @@ public class Ex03 {
 		}
 		System.out.println("변경된 내용 확인");
 		DAO.getInstance().getList();
+		
+		
+		
+		
 	}
 }
